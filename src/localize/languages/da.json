@@ -5,13 +5,13 @@
     "fog": "Tåge",
     "hail": "Hagl",
     "lightning": "Lyn",
-    "lightning-rainy": "Lyn ,regnvejr",
-    "partlycloudy": "Delvis overskyet",
+    "lightning-rainy": "Lyn, regnvejr",
+    "partlycloudy": "Delvist overskyet",
     "pouring": "Regnvejr",
     "rainy": "Regnfuldt",
     "snowy": "Sne",
     "snowy-rainy": "Slud",
-    "sunny": "Solrig",
+    "sunny": "Solrigt",
     "windy": "Blæsende",
     "windy-variant": "Stærk vind",
     "exceptional": "Kaos"
@@ -28,6 +28,6 @@
   "misc": {
     "aqi": "AQI",
     "humidity": "fugtighed",
-    "feels-like": "Feels like"
+    "feels-like": "Føles som"
   }
 }
